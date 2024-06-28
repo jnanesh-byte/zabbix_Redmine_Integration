@@ -45,3 +45,4 @@ Conclusion
 With these steps, you will have a functional integration between Zabbix and Redmine that automates the creation and closure of issues based on alert triggers. This setup improves efficiency and ensures that all alerts are properly tracked and managed in Redmine.
 
 
+More details with screenshots: https://medium.com/@jnanesh55/automating-issue-management-integrating-zabbix-alerts-with-redmine-e55800ff9bb4
